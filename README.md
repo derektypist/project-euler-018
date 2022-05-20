@@ -47,6 +47,8 @@ The aim is to find the maximum total from the top to bottom of the triangle belo
 
 A [PDF File](pdf/triangle.pdf) is supplied.
 
+Information at [Project Euler 018](https://projecteuler.net/problem=18)
+
 ## UX
 
 **User Stories**
@@ -77,3 +79,13 @@ Ensure user stories have been met.
 
 Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-018) at the main branch.
 
+## Credits
+
+### Content
+
+Written by me.
+
+### Acknowledgements
+
+- [Project Euler](https://projecteuler.net)
+- [FreeCodeCamp](https://www.freecodecamp.org)
