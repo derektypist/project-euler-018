@@ -2,16 +2,20 @@
 
 By starting at the top of the triangle and moving from adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
-`3
+3
+
 7 4
+
 2 4 6
-8 5 9 3`
+
+8 5 9 3
 
 That is 3 + 7 + 4 + 9 = 23.
 
 The aim is to find the maximum total from the top to bottom of the triangle below:
 
-`75
+75
+
 95 64
 
 17 47 82
@@ -38,7 +42,7 @@ The aim is to find the maximum total from the top to bottom of the triangle belo
 
 63 66 04 68 89 53 67 30 73 16 69 87 40 31
 
-04 62 98 27 23 09 70 98 73 93 38 53 60 04 23`
+04 62 98 27 23 09 70 98 73 93 38 53 60 04 23
 
 
 A [PDF File](pdf/triangle.pdf) is supplied.
@@ -64,4 +68,12 @@ Allows the user to view the PDF file of the triangle as well as the maximum tota
 ## Technologies
 
 Uses HTML5, CSS3, JavaScript, Bootstrap 5.2.0-Beta1 and Google Fonts.
+
+## Testing
+
+Ensure user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-018) at the main branch.
 
